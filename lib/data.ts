@@ -8,7 +8,7 @@ export const TEAMS = [
   { id: "t7", name: "Morado", color: "#8B5CF6" },
   { id: "t8", name: "Naranja", color: "#F97316" },
   { id: "t9", name: "Blanco", color: "#FFFFFF" },
-  { id: "t10", name: "Café", color: "#92400E" },
+  { id: "t10", name: "Verde Bandera", color: "#0a2d0dff" },
 ];
 
 export const STAGES = [
